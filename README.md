@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Portofolio-Kholil/Project-PKL)
 
-# Project-PKL Ke-2 
+# Project-PKL Ke-2
 Di PT. PERTAMINA Marketing Operation Region V Surabaya.
 Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V Dengan PHP, jQuery dan MySQL".
 
@@ -79,4 +79,8 @@ Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V 
 <br>
 
 ## Ucapan Terima Kasih
+- Terima Kasih Kepada Pak Sadam Sidiq, Selaku Pembimbing Lapangan PKL di PT. PERTAMINA MOR V.
+- Terima Kasih Kepada Pak Mohammad Idhom, Selaku Dosen Pembimbing PKL.
 - Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v 
+
+## Kholilul Rachman N.M
