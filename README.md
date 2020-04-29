@@ -1,8 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Portofolio-Kholil/Project-PKL)
 
-# Project-PKL Ke-2 Di PT. PERTAMINA Marketing Operation Region V Surabaya
-Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V Dengan PHP, jQuery dan MySQL"
+# Project-PKL Ke-2 
+Di PT. PERTAMINA Marketing Operation Region V Surabaya.
+Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V Dengan PHP, jQuery dan MySQL".
 
 ## Tools / Frameworks
 | Bagian | Tools yang digunakan |
