@@ -70,6 +70,11 @@ Repo ini berisi hasil project PKL saya di PT. PERTAMINA Marketing Operation Regi
 <p align="center">
         <img src="/images/12-grafik2.jpg" width="500" height="300">
 </p>
+
+<br>
+<p align="center">
+        <img src="/images/13-404.jpg" width="500" height="300">
+</p>
 <br>
 
 ## 
