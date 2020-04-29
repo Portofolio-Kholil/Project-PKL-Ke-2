@@ -1,13 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Portofolio-Kholil/Project-PKL)
 
-# Project-PKL
-Repo ini berisi hasil project PKL saya di PT. PERTAMINA Marketing Operation Region V
+# Project-PKL Ke-2 Di PT. PERTAMINA Marketing Operation Region V Surabaya
+Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V Dengan PHP, jQuery dan MySQL"
 
 ## Tools / Frameworks
 | Bagian | Tools yang digunakan |
 | --- | --- |
-| Back-End | PHP |
+| Back-End | Mini Framework PHP |
 | Front-End | Native JS, jQuery, Chart-JS |
 | Database | MySQL |
 
@@ -77,4 +77,5 @@ Repo ini berisi hasil project PKL saya di PT. PERTAMINA Marketing Operation Regi
 </p>
 <br>
 
-## 
+## Ucapan Terima Kasih
+- Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v 
