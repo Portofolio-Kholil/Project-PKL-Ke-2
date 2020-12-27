@@ -82,6 +82,6 @@ Project Development "Rancang Bangun Website Pengelolaan Pekerja PERTAMINA MOR V 
 ## Ucapan Terima Kasih
 - Terima Kasih Kepada Pak Sadam Sidiq, Selaku Pembimbing Lapangan PKL di PT. PERTAMINA MOR V.
 - Terima Kasih Kepada Pak Mohammad Idhom, Selaku Dosen Pembimbing PKL.
-- Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v 
+- Terima Kasih Kepada Teman Saya, Radical Rakhman Wahid selaku Tim Pengerjaan PKL Yang Selalu Menemani Saya Dalam Suka Maupun Duka :v
 
 ### Kholilul Rachman N.M
